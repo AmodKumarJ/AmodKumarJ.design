@@ -1,1 +1,64 @@
-# design.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="welcom.css">
+    <title>Document</title>
+</head>
+<body>
+    <header class="myheader">
+        <nav class="myNav">
+            <div class="navContent">
+                <ul>
+                    <li>HOME</li>
+                    <li>FAQ's</li>
+                    <li>ABOUT</li>
+                    <li>PROFILE</li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+   <div class="container">
+        
+        <video autoplay loop muted plays-inline class="background-clip">
+            <source src="/pexels-pavel-danilyuk-5052676-1920x1080-30fps.mp4" type="video/mp4">
+        </video>
+        <div class="content">
+            <h1>MOTO SERVICE</h1>
+            <p>no road is to long when you have good company</p>
+        </div>
+   </div>
+    <div class="service"><p>FIND YOUR SERVICE</p></div>
+    <div class="service1"><img src="/services-icon.png" alt="" id="image"></div>
+    <div class="serviceButton">Request a Service</div>
+   <div class="myServices">
+       <div class="divBack"></div>
+        <div class="news">
+            <p class="p1">LATEST UPDATES</p>
+            <div class="button">KNOW MORE</div>
+        </div>
+   </div>
+   <div class="connect">
+     <div class="social">
+        <div class="imgSocial"></div>
+        <div class="myNum">8050-398-425</div>
+     </div>
+     <div class="social">
+        <div class="imgSocial2"></div>
+        <div class="myNum2">Manglore Institute moodabidri</div>
+     </div>
+     <div class="social">
+        <div class="imgSocial3"></div>
+        <div class="myNum3">
+            <ul>
+                <li>Instagram</li>
+                <li>Facebook</li>
+                <li>Twitter</li>
+            </ul>
+        </div>
+     </div>
+   </div>
+   
+</body>
+</html>
